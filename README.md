@@ -19,8 +19,8 @@
 ---
 ## Contact Me:
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://img.shields.io/badge/))](https://www.linkedin.com/in/dev-elshafie/) 
-[![Facebook]([https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white](https://img.shields.io/badge/))](https://www.facebook.com/mohammed.elshafie50) 
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white])(https://www.linkedin.com/in/dev-elshafie/)
+[![Facebook]([https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white])(https://www.facebook.com/mohammed.elshafie50) 
 
 ---
 ## Githup Status:
