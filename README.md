@@ -44,7 +44,7 @@
 
 ---
 ## Githup Status:
-![](https://github-readme-streak-stats.herokuapp.com/?user=elshafie&theme=cobalt&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=elshafie&theme=cobalt&hide_border=false)
 ![Mohammed Elshafie github stats](https://github-readme-stats.vercel.app/api?username=elshafie&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elshafie&theme=cobalt&hide=html,css&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
