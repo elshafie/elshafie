@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Elshafie Omar </h1
 
 <div align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=2000&pause=400&random=false&width=435&lines=Full-stack+Developer;Front-end+Developer;Back-end+Developer" alt="Typing SVG" /></a>
+	<a align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=2000&pause=400&random=false&width=435&lines=Full-stack+Developer;Front-end+Developer;Back-end+Developer" alt="Typing SVG" /></a>
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=elshafie&label=Profile%20views&color=0e75b6&style=flat" alt="elshafie" />
