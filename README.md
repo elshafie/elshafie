@@ -22,6 +22,7 @@
 
 ---
 ## Githup Status:
+![](https://github-readme-stats.vercel.app/api?username=elshafie&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![Mohammed Elshafie github stats](https://github-readme-stats.vercel.app/api?username=elshafie&show_icons=true&theme=cobalt)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elshafie&theme=cobalt&hide=html,css&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
