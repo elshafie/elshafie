@@ -1,4 +1,6 @@
+<div align="center">
 # Hi 👋, I'm Mohammed Elshafie Omar
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=300&random=false&width=435&lines=Full-stack+Developer;Front-end+Developer;Back-end+Develpor)](https://git.io/typing-svg)
 
