@@ -29,7 +29,7 @@
 
 ---
 ## Achievements:
-
+![](https://github-profile-trophy.vercel.app/?username=elshafie&theme=cobalt&no-frame=false&no-bg=true&margin-w=4)
 
 
 <!--
