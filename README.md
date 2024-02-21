@@ -21,8 +21,8 @@
 
 
 ## Githup Status:
-![Mohammed Elshafie github stats](https://github-readme-stats.vercel.app/api?username=elshafie&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elshafie&theme=gruvbox&hide=html,css&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+![Mohammed Elshafie github stats](https://github-readme-stats.vercel.app/api?username=elshafie&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elshafie&theme=cobalt&hide=html,css&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Achievements:
