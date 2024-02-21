@@ -22,11 +22,10 @@
 
 ---
 ## Githup Status:
-<div align="center">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=elshafie&theme=radical&hide_border=false)<br/>
 ![Mohammed Elshafie github stats](https://github-readme-stats.vercel.app/api?username=elshafie&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elshafie&theme=cobalt&hide=html,css&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
 ---
 ## Achievements:
