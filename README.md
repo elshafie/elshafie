@@ -12,7 +12,7 @@
 - 🔭 I’m a self-taught full-stack developer (MERN stack). 
 - 🌱 I’m currently learning more advanced topics in this stack.
 
----
+
 ### Tech Skills:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
