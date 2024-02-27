@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=elshafie&label=Profile%20views&color=0e75b6&style=flat" alt="elshafie" /> <img src="https://img.shields.io/github/followers/elshafie?label=Followers" alt="elshafie" />
 </p>
-<br><br><br><br>
+
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="400px" />
 
 - 🔭 I’m a self-taught full-stack developer (MERN stack). 
