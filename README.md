@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning more advanced topics in this stack.
 
 ---
-### Tech Skills
+### Tech Skills:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -49,7 +49,7 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ---
-### Contact Me
+### Contact Me:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.elshafie15@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-elshafie/)
@@ -58,14 +58,14 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)]()
 
 ---
-### Githup Status
+### Githup Status:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=elshafie&theme=cobalt&hide_border=false)
 ![Mohammed Elshafie github stats](https://github-readme-stats.vercel.app/api?username=elshafie&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elshafie&theme=cobalt&hide=html,css&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
-### Achievements
+### Achievements:
 ![](https://github-profile-trophy.vercel.app/?username=elshafie&theme=cobalt&no-frame=false&no-bg=true&margin-w=4)
 
 
